@@ -10,7 +10,7 @@ First: Download the file and go to its directory via some sort of commandline so
 For mac the command should be
 
 ```
-cd ~/Downloads/MULTI_PRESENTATION
+cd ~/Downloads/multi_presentation
 ```
 
 After that, run 
