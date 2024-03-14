@@ -25,7 +25,13 @@ http://127.0.0.1:8000/
 ```
 
 Other notes:
-To move from first slide, left click and the rest can be navigated using the spacebar (I was wayyy to lazy to code in any more listeners so if it really annoys you add them yourself)
+1. To move from first slide, left click and the rest can be navigated using the spacebar (I was wayyy to lazy to code in any more listeners so if it really annoys you add them yourself)
+
+2. There is no back button so reload and click through it again to navigate back ig?
+
+3. The color matching game only updates color when the enter key is pressed on.
+
+4. Finally to check the color of the square, click on it and then go to inspect element. Click on Console and you should see a few statements printed out, automatically calculating error the RGB values
 
 The other coding portion covered during the presentation is the file 
 ```
