@@ -1,0 +1,14 @@
+<div id="slide4" class="slide">
+    <img id="img1" src="images/complicated.png"
+        style="position: absolute; left: 300px; top: 300px; width: 400px; height: 200px;">
+    <img id="img2" src="images/less_complicated.png"
+        style="position: absolute; left: 700px; top: 300px; width: 400px; height: 200px;">
+</div>
+<script>
+    document.addEventListener('keydown', function (event) {
+        if (event.code === "Space") {
+            event.preventDefault();
+            window.loadNextSlide('slide5.html');
+        }
+    });
+</script>
